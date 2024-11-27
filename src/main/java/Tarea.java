@@ -2,7 +2,7 @@
 public class Tarea {
 
   private String titulo;
-  private String descripcion; // Variable no utilizada.
+  
 
   public void setTitulo(String titulo) {
     if (titulo == null) {
